@@ -150,9 +150,11 @@ def image_noise():
 
     image = cv2.imread('./pics/lenna.jpg')  # Reads in image
 
-    # what amount of salt
+    np.random 2d
+
+    # what amount of salt randomly ------  uniform distribution np
     # what amount of pepper
-    # what sigma for gausian
+    # what sigma for gausian 
 
     cv2.imshow('Original', image)
 
